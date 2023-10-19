@@ -859,7 +859,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 @import UIKit;
 #endif
 
-#import "/Users/parthbhatt/Documents/Mapsted/Workspace/Simulator Support Changes/ios-sdk/ios-sdk-map-core/map/MN-Bridging-Header.h"
+#import "MN-Bridging-Header.h"
 
 #endif
 #pragma clang diagnostic ignored "-Wproperty-attribute-mismatch"
