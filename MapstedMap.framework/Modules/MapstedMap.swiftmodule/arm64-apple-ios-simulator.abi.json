@@ -16064,17 +16064,9 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "MapstedMap.MNMapView?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "MNMapView",
-                    "printedName": "MapstedMap.MNMapView",
-                    "usr": "c:@M@MapstedMap@objc(cs)MNMapView"
-                  }
-                ],
-                "usr": "s:Sq"
+                "name": "MNMapView",
+                "printedName": "MapstedMap.MNMapView",
+                "usr": "c:@M@MapstedMap@objc(cs)MNMapView"
               },
               {
                 "kind": "TypeNominal",
@@ -16084,22 +16076,14 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "MapSDK.MGLContext?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "MGLContext",
-                    "printedName": "MapSDK.MGLContext",
-                    "usr": "c:objc(cs)MGLContext"
-                  }
-                ],
-                "usr": "s:Sq"
+                "name": "EAGLContext",
+                "printedName": "OpenGLES.EAGLContext",
+                "usr": "c:objc(cs)EAGLContext"
               }
             ],
             "declKind": "Constructor",
             "usr": "c:@M@MapstedMap@objc(cs)MNMapView(im)initWithFrame:context:",
-            "mangledName": "$s10MapstedMap9MNMapViewC5frame7contextACSgSo6CGRectV_So10MGLContextCSgtcfc",
+            "mangledName": "$s10MapstedMap9MNMapViewC5frame7contextACSo6CGRectV_So11EAGLContextCtcfc",
             "moduleName": "MapstedMap",
             "overriding": true,
             "implicit": true,
@@ -16128,7 +16112,7 @@
         "hasMissingDesignatedInitializers": true,
         "superclassNames": [
           "MapSDK.NTMapView",
-          "MapSDK.MGLKView",
+          "GLKit.GLKView",
           "UIKit.UIView",
           "UIKit.UIResponder",
           "ObjectiveC.NSObject"
