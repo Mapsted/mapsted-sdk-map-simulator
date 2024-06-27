@@ -7239,6 +7239,34 @@
           },
           {
             "kind": "Function",
+            "name": "centerOnBuilding",
+            "printedName": "centerOnBuilding(buildingId:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10MapstedMap0aB7SyncApiC16centerOnBuilding10buildingIdSbSi_tF",
+            "mangledName": "$s10MapstedMap0aB7SyncApiC16centerOnBuilding10buildingIdSbSi_tF",
+            "moduleName": "MapstedMap",
+            "isOpen": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "setDestinationPinImage",
             "printedName": "setDestinationPinImage(destinationPin:)",
             "children": [
@@ -79367,6 +79395,35 @@
             "declKind": "Func",
             "usr": "s:10MapstedMap0aB3ApiC16centerOnProperty10propertyIdSbSi_tF",
             "mangledName": "$s10MapstedMap0aB3ApiC16centerOnProperty10propertyIdSbSi_tF",
+            "moduleName": "MapstedMap",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "centerOnBuilding",
+            "printedName": "centerOnBuilding(buildingId:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10MapstedMap0aB3ApiC16centerOnBuilding10buildingIdSbSi_tF",
+            "mangledName": "$s10MapstedMap0aB3ApiC16centerOnBuilding10buildingIdSbSi_tF",
             "moduleName": "MapstedMap",
             "isOpen": true,
             "declAttributes": [
