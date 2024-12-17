@@ -305,7 +305,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if defined(__OBJC__)
 @class NSCoder;
 @class NSString;
-@class MGLContext;
+@class EAGLContext;
 
 SWIFT_CLASS("_TtC10MapstedMap9MNMapView")
 @interface MNMapView : NTMapView
@@ -320,7 +320,7 @@ SWIFT_CLASS("_TtC10MapstedMap9MNMapView")
 - (void)accessibilityElementDidLoseFocus;
 - (void)accessibilityElementDidBecomeFocused;
 - (BOOL)accessibilityPerformMagicTap SWIFT_WARN_UNUSED_RESULT;
-- (null_unspecified instancetype)initWithFrame:(CGRect)frame context:(MGLContext * _Null_unspecified)context SWIFT_UNAVAILABLE;
+- (nonnull instancetype)initWithFrame:(CGRect)frame context:(EAGLContext * _Nonnull)context SWIFT_UNAVAILABLE;
 @end
 
 @class UITraitCollection;
@@ -350,6 +350,15 @@ SWIFT_CLASS("_TtC10MapstedMap19MNMapViewController")
 @interface MNPosition (SWIFT_EXTENSION(MapstedMap))
 @property (nonatomic, readonly, copy) NSString * _Nonnull description;
 @end
+
+
+
+SWIFT_CLASS("_TtC10MapstedMap14MapOverlayItem")
+@interface MapOverlayItem : NSObject
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
 
 
 
@@ -709,7 +718,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if defined(__OBJC__)
 @class NSCoder;
 @class NSString;
-@class MGLContext;
+@class EAGLContext;
 
 SWIFT_CLASS("_TtC10MapstedMap9MNMapView")
 @interface MNMapView : NTMapView
@@ -724,7 +733,7 @@ SWIFT_CLASS("_TtC10MapstedMap9MNMapView")
 - (void)accessibilityElementDidLoseFocus;
 - (void)accessibilityElementDidBecomeFocused;
 - (BOOL)accessibilityPerformMagicTap SWIFT_WARN_UNUSED_RESULT;
-- (null_unspecified instancetype)initWithFrame:(CGRect)frame context:(MGLContext * _Null_unspecified)context SWIFT_UNAVAILABLE;
+- (nonnull instancetype)initWithFrame:(CGRect)frame context:(EAGLContext * _Nonnull)context SWIFT_UNAVAILABLE;
 @end
 
 @class UITraitCollection;
@@ -754,6 +763,15 @@ SWIFT_CLASS("_TtC10MapstedMap19MNMapViewController")
 @interface MNPosition (SWIFT_EXTENSION(MapstedMap))
 @property (nonatomic, readonly, copy) NSString * _Nonnull description;
 @end
+
+
+
+SWIFT_CLASS("_TtC10MapstedMap14MapOverlayItem")
+@interface MapOverlayItem : NSObject
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
 
 
 
