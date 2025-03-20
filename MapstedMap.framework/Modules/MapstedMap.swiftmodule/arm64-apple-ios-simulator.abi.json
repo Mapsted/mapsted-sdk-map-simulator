@@ -21556,6 +21556,41 @@
           },
           {
             "kind": "Function",
+            "name": "getMapOverlayItem",
+            "printedName": "getMapOverlayItem(byOverlayId:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "MapstedMap.MapOverlayItem?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MapOverlayItem",
+                    "printedName": "MapstedMap.MapOverlayItem",
+                    "usr": "c:@M@MapstedMap@objc(cs)MapOverlayItem"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10MapstedMap0aB3ApiC03getB11OverlayItem02byE2IdAA0beF0CSgSS_tF",
+            "mangledName": "$s10MapstedMap0aB3ApiC03getB11OverlayItem02byE2IdAA0beF0CSgSS_tF",
+            "moduleName": "MapstedMap",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "updateIcons",
             "printedName": "updateIcons(propertyIds:buildingIds:mapZoom:mapRotation:)",
             "children": [
@@ -30766,952 +30801,952 @@
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "Array",
-      "offset": 3315,
+      "offset": 2788,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 3708,
+      "offset": 3159,
       "length": 10,
       "value": "\"property\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 3786,
+      "offset": 3237,
       "length": 10,
       "value": "\"building\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 3878,
+      "offset": 3329,
       "length": 7,
       "value": "\"floor\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 4027,
+      "offset": 3478,
       "length": 4,
       "value": "\"v2\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 4082,
+      "offset": 3533,
       "length": 13,
       "value": "\"mapOverlays\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 4303,
+      "offset": 3754,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 4345,
+      "offset": 3796,
       "length": 3,
       "value": "\"#\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 4356,
+      "offset": 3807,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 4423,
+      "offset": 3874,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 4453,
+      "offset": 3904,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 4481,
+      "offset": 3932,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 4510,
+      "offset": 3961,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 4556,
+      "offset": 4007,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 4628,
+      "offset": 4079,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 4639,
+      "offset": 4090,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 4702,
+      "offset": 4153,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 4713,
+      "offset": 4164,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 4775,
+      "offset": 4226,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 4786,
+      "offset": 4237,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 4820,
+      "offset": 4271,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 4895,
+      "offset": 4346,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 4906,
+      "offset": 4357,
       "length": 1,
       "value": "1"
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4418,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4429,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4492,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4503,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4565,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4576,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4610,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4685,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4696,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4759,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4770,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4832,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4843,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4877,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4956,
+      "length": 1,
+      "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
       "offset": 4967,
       "length": 1,
-      "value": "1"
+      "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 4978,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5041,
+      "offset": 5028,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5052,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5114,
-      "length": 1,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5125,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5159,
-      "length": 1,
-      "value": "6"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5234,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5245,
+      "offset": 5039,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5308,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5319,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5381,
+      "offset": 5102,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5392,
+      "offset": 5113,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5426,
-      "length": 1,
-      "value": "8"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5505,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5516,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5577,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5588,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5651,
-      "length": 1,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5662,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5724,
+      "offset": 5175,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 5735,
+      "offset": 5186,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 6039,
+      "offset": 5490,
       "length": 117,
       "value": "\"Color value \""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 6067,
+      "offset": 5518,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 6070,
+      "offset": 5521,
       "length": 2,
       "value": "\" is invalid.  It should be a hex value of the form #RBG, #ARGB, #RRGGBB, or #AARRGGBB\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 6474,
+      "offset": 5925,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 6516,
+      "offset": 5967,
       "length": 3,
       "value": "\"#\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 6527,
+      "offset": 5978,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 6594,
+      "offset": 6045,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 6624,
+      "offset": 6075,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 6652,
+      "offset": 6103,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 6681,
+      "offset": 6132,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 6727,
+      "offset": 6178,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 6799,
+      "offset": 6250,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 6810,
+      "offset": 6261,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 6873,
+      "offset": 6324,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 6884,
+      "offset": 6335,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 6946,
+      "offset": 6397,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 6957,
+      "offset": 6408,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 6991,
+      "offset": 6442,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 7066,
+      "offset": 6517,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 7077,
+      "offset": 6528,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 7138,
+      "offset": 6589,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 7149,
+      "offset": 6600,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 7212,
+      "offset": 6663,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 7223,
+      "offset": 6674,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 7285,
+      "offset": 6736,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 7296,
+      "offset": 6747,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 7330,
+      "offset": 6781,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 7405,
+      "offset": 6856,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 7416,
+      "offset": 6867,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 7479,
+      "offset": 6930,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 7490,
+      "offset": 6941,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 7552,
+      "offset": 7003,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 7563,
+      "offset": 7014,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 7597,
+      "offset": 7048,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 7676,
+      "offset": 7127,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 7687,
+      "offset": 7138,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 7748,
+      "offset": 7199,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 7759,
+      "offset": 7210,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 7822,
+      "offset": 7273,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 7833,
+      "offset": 7284,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 7895,
+      "offset": 7346,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 7906,
+      "offset": 7357,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 8210,
+      "offset": 7661,
       "length": 117,
       "value": "\"Color value \""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 8238,
+      "offset": 7689,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 8241,
+      "offset": 7692,
       "length": 2,
       "value": "\" is invalid.  It should be a hex value of the form #RBG, #ARGB, #RRGGBB, or #AARRGGBB\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "FloatLiteral",
-      "offset": 8497,
+      "offset": 7948,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "FloatLiteral",
-      "offset": 8528,
+      "offset": 7979,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "FloatLiteral",
-      "offset": 8557,
+      "offset": 8008,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "FloatLiteral",
-      "offset": 8588,
+      "offset": 8039,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 8843,
+      "offset": 8294,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 8859,
+      "offset": 8310,
       "length": 26,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 8872,
+      "offset": 8323,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 8884,
+      "offset": 8335,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 8921,
+      "offset": 8372,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 9147,
+      "offset": 8598,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 9224,
+      "offset": 8675,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 9500,
+      "offset": 8951,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 9617,
+      "offset": 9068,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "FloatLiteral",
-      "offset": 9803,
+      "offset": 9254,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 9963,
+      "offset": 9414,
       "length": 66,
       "value": "\"MapOverlayItem item.color is not valid - error - \""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 10028,
+      "offset": 9479,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 10089,
+      "offset": 9540,
       "length": 92,
       "value": "\"MapOverlayItem item.color is not valid - generalized-error - \""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 10180,
+      "offset": 9631,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "Array",
-      "offset": 10481,
+      "offset": 9932,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "Array",
-      "offset": 10554,
+      "offset": 10005,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 10677,
+      "offset": 10128,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 10718,
+      "offset": 10169,
       "length": 32,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 10733,
+      "offset": 10184,
       "length": 2,
       "value": "\" is building poi\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 10856,
+      "offset": 10307,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 10897,
+      "offset": 10348,
       "length": 32,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 10912,
+      "offset": 10363,
       "length": 2,
       "value": "\" is property poi\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 11010,
+      "offset": 10461,
       "length": 31,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 11025,
+      "offset": 10476,
       "length": 2,
       "value": "\" is unknown poi\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "BooleanLiteral",
-      "offset": 11165,
+      "offset": 10616,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "BooleanLiteral",
-      "offset": 11236,
+      "offset": 10687,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "BooleanLiteral",
-      "offset": 11321,
+      "offset": 10772,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 11402,
+      "offset": 10853,
       "length": 4,
       "value": "\"en\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 11411,
+      "offset": 10862,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 11477,
+      "offset": 10928,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 11544,
+      "offset": 10995,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "Array",
-      "offset": 11613,
+      "offset": 11064,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "Array",
-      "offset": 11685,
+      "offset": 11136,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 12282,
+      "offset": 11733,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "Array",
-      "offset": 12409,
+      "offset": 11860,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "Array",
-      "offset": 12483,
+      "offset": 11934,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "StringLiteral",
-      "offset": 12656,
+      "offset": 12107,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "Array",
-      "offset": 12851,
+      "offset": 12302,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 13380,
+      "offset": 12831,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "IntegerLiteral",
-      "offset": 13391,
+      "offset": 12842,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "BooleanLiteral",
-      "offset": 13508,
+      "offset": 12959,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Model\/Dynamic\/MapOverlayMananger.swift",
       "kind": "FloatLiteral",
-      "offset": 13515,
+      "offset": 12966,
       "length": 3,
       "value": "0.0"
     },
@@ -47223,749 +47258,749 @@
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 7871,
+      "offset": 8061,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 9286,
+      "offset": 9476,
       "length": 28,
       "value": "\"Do not have map permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 10011,
+      "offset": 10201,
       "length": 28,
       "value": "\"Do not have map permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 10376,
+      "offset": 10566,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 10429,
+      "offset": 10619,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 10476,
+      "offset": 10666,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 19648,
+      "offset": 19838,
       "length": 39,
       "value": "\"Do not have map or routing permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 19984,
+      "offset": 20174,
       "length": 39,
       "value": "\"Do not have map or routing permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 20521,
+      "offset": 20711,
       "length": 39,
       "value": "\"Do not have map or routing permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 21089,
+      "offset": 21279,
       "length": 39,
       "value": "\"Do not have map or routing permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 22053,
-      "length": 39,
-      "value": "\"Do not have map or routing permission\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
-      "kind": "Array",
-      "offset": 22113,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
-      "kind": "StringLiteral",
-      "offset": 22577,
+      "offset": 22243,
       "length": 39,
       "value": "\"Do not have map or routing permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "Array",
-      "offset": 22637,
+      "offset": 22303,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 24149,
+      "offset": 22767,
+      "length": 39,
+      "value": "\"Do not have map or routing permission\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
+      "kind": "Array",
+      "offset": 22827,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
+      "kind": "StringLiteral",
+      "offset": 24339,
       "length": 32,
       "value": "\"Do not have routing permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 24895,
+      "offset": 25085,
       "length": 32,
       "value": "\"Do not have routing permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "BooleanLiteral",
-      "offset": 24948,
+      "offset": 25138,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 25467,
+      "offset": 25657,
       "length": 32,
       "value": "\"Do not have routing permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 26208,
+      "offset": 26398,
       "length": 32,
       "value": "\"Do not have routing permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 27484,
+      "offset": 27674,
       "length": 32,
       "value": "\"Do not have routing permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 28211,
+      "offset": 28401,
       "length": 48,
       "value": "\"Do not have routing and positioning permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 28861,
+      "offset": 29051,
       "length": 48,
       "value": "\"Do not have routing and positioning permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 29386,
+      "offset": 29576,
       "length": 32,
       "value": "\"Do not have routing permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 29719,
+      "offset": 29909,
       "length": 32,
       "value": "\"Do not have routing permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 30218,
+      "offset": 30408,
       "length": 32,
       "value": "\"Do not have routing permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 30616,
+      "offset": 30806,
       "length": 32,
       "value": "\"Do not have routing permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 31177,
+      "offset": 31367,
       "length": 32,
       "value": "\"Do not have routing permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 31520,
+      "offset": 31710,
       "length": 32,
       "value": "\"Do not have routing permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 32269,
+      "offset": 32459,
       "length": 48,
       "value": "\"Do not have routing and positioning permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "Array",
-      "offset": 32338,
+      "offset": 32528,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 32957,
+      "offset": 33147,
       "length": 48,
       "value": "\"Do not have routing and positioning permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 33669,
+      "offset": 33859,
       "length": 48,
       "value": "\"Do not have routing and positioning permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 34553,
+      "offset": 34743,
       "length": 48,
       "value": "\"Do not have routing and positioning permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 35302,
+      "offset": 35492,
       "length": 48,
       "value": "\"Do not have routing and positioning permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 36354,
+      "offset": 36544,
       "length": 28,
       "value": "\"Do not have Map permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 36736,
+      "offset": 36926,
       "length": 28,
       "value": "\"Do not have Map permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 37162,
+      "offset": 37352,
       "length": 28,
       "value": "\"Do not have Map permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 37526,
+      "offset": 37716,
       "length": 28,
       "value": "\"Do not have Map permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 37873,
+      "offset": 38063,
       "length": 28,
       "value": "\"Do not have Map permission\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 38510,
+      "offset": 38700,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "BooleanLiteral",
-      "offset": 38589,
+      "offset": 38779,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 38803,
+      "offset": 38993,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "BooleanLiteral",
-      "offset": 38856,
+      "offset": 39046,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 39185,
+      "offset": 39375,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "BooleanLiteral",
-      "offset": 39275,
+      "offset": 39465,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "BooleanLiteral",
-      "offset": 46768,
+      "offset": 46958,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "BooleanLiteral",
-      "offset": 46903,
+      "offset": 47093,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 47192,
+      "offset": 47382,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 47231,
+      "offset": 47421,
       "length": 8,
       "value": "\"select\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 47325,
+      "offset": 47515,
       "length": 10,
       "value": "\"property\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 47410,
+      "offset": 47600,
       "length": 10,
       "value": "\"building\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 47517,
+      "offset": 47707,
       "length": 8,
       "value": "\"entity\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 47539,
+      "offset": 47729,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 47605,
+      "offset": 47795,
       "length": 7,
       "value": "\"floor\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 47626,
+      "offset": 47816,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 47720,
+      "offset": 47910,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 47749,
+      "offset": 47939,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 47799,
+      "offset": 47989,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 47848,
+      "offset": 48038,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 47906,
+      "offset": 48096,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 47921,
+      "offset": 48111,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "BooleanLiteral",
-      "offset": 48081,
+      "offset": 48271,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 48151,
+      "offset": 48341,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "BooleanLiteral",
-      "offset": 48318,
+      "offset": 48508,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "BooleanLiteral",
-      "offset": 48395,
+      "offset": 48585,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 48501,
+      "offset": 48691,
       "length": 9,
       "value": "\"routing\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 48752,
+      "offset": 48942,
       "length": 14,
       "value": "\"destinations\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "Array",
-      "offset": 48976,
+      "offset": 49166,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 49189,
+      "offset": 49379,
       "length": 3,
       "value": "\"!\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 49278,
+      "offset": 49468,
       "length": 3,
       "value": "\"!\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 49421,
+      "offset": 49611,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 49665,
+      "offset": 49855,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 49692,
+      "offset": 49882,
       "length": 3,
       "value": "\":\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 49756,
+      "offset": 49946,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 49915,
+      "offset": 50105,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 49976,
+      "offset": 50166,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 50142,
+      "offset": 50332,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 50169,
+      "offset": 50359,
       "length": 3,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 50224,
+      "offset": 50414,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 50251,
+      "offset": 50441,
       "length": 3,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 50319,
+      "offset": 50509,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 50355,
+      "offset": 50545,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 50543,
+      "offset": 50733,
       "length": 13,
       "value": "\"start point\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 50565,
+      "offset": 50755,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 50657,
+      "offset": 50847,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 50686,
+      "offset": 50876,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 51024,
+      "offset": 51214,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 51051,
+      "offset": 51241,
       "length": 3,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 51114,
+      "offset": 51304,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 51362,
+      "offset": 51552,
       "length": 3,
       "value": "\":\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 51515,
+      "offset": 51705,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 51573,
+      "offset": 51763,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 51628,
+      "offset": 51818,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 51852,
+      "offset": 52042,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 51889,
+      "offset": 52079,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 52207,
+      "offset": 52397,
       "length": 3,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "StringLiteral",
-      "offset": 52367,
+      "offset": 52557,
       "length": 3,
       "value": "\":\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 52520,
+      "offset": 52710,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 52578,
+      "offset": 52768,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 52633,
+      "offset": 52823,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 52857,
+      "offset": 53047,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 52894,
+      "offset": 53084,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 53154,
+      "offset": 53344,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "BooleanLiteral",
-      "offset": 53312,
+      "offset": 53502,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "BooleanLiteral",
-      "offset": 53404,
+      "offset": 53594,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "FloatLiteral",
-      "offset": 54614,
+      "offset": 54804,
       "length": 3,
       "value": "0.6"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-map-core\/map\/Api\/MapstedMapApi.swift",
       "kind": "BooleanLiteral",
-      "offset": 55364,
+      "offset": 55554,
       "length": 5,
       "value": "false"
     },

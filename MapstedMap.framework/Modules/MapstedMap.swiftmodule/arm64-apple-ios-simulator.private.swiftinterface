@@ -779,6 +779,7 @@ public enum Scaling {
   public func isBuildingVisible(buildingId: Swift.Int) -> Swift.Bool
   public func fetchMapOverlayData(propertyId: Swift.Int, buildingId: Swift.Int?, floorId: Swift.Int?) -> [MapstedMap.MapOverlayItem]
   public func getMapOverlayData() -> [MapstedMap.MapOverlayItem]
+  public func getMapOverlayItem(byOverlayId: Swift.String) -> MapstedMap.MapOverlayItem?
   public func updateIcons(propertyIds: [Swift.Int], buildingIds: [Swift.Int], mapZoom: Swift.Float, mapRotation: Swift.Float)
   public func removeProperty(propertyId: Swift.Int)
   public func downloadPackage(propertyId: Swift.Int)
