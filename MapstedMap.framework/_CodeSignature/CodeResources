@@ -22,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		in0G0lMN2oNGClBzJLdjAbx42i8=
+		7C29GrNMf4/7yXgh3oH8ccxqBoY=
 		</data>
 		<key>MNContactUsView.nib</key>
 		<data>
@@ -34,15 +34,15 @@
 		</data>
 		<key>Modules/MapstedMap.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		pZY4b47FX7mpYsddHdpTrU22DZQ=
+		1oJFE/mbL9gFMgrRR/PNZyWBRkw=
 		</data>
 		<key>Modules/MapstedMap.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		bPSJrFf9mIJtPhmmBmX7g/kbFpY=
+		1ydiqBNGJ34XQgxb6yqy6iZKATY=
 		</data>
 		<key>Modules/MapstedMap.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		IMvCumDLUuVh1SXh298DkODYQ0M=
+		O2O51VwkM8l25nQ5pWaoJLRINXU=
 		</data>
 		<key>Modules/MapstedMap.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/MapstedMap.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		IMvCumDLUuVh1SXh298DkODYQ0M=
+		O2O51VwkM8l25nQ5pWaoJLRINXU=
 		</data>
 		<key>Modules/MapstedMap.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -302,21 +302,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			efXVUN27x6J4GjUf6P81XaZfqeCEhqY9R+W/Mawx7aI=
+			FbEe6DTrJUyvC/xkxTnLJ8azuctVGH/A8DKcehAxEE0=
 			</data>
 		</dict>
 		<key>Modules/MapstedMap.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U254wRwKpTUCY4+ynM1Y1Cf+ydW0w1dyMqfa19TSs6Q=
+			FxKLmUJhw8T/fvRd2NonEEeSLxIaM2Lf831Haon+Q3k=
 			</data>
 		</dict>
 		<key>Modules/MapstedMap.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wpz3WKOcVC5S8WLQfzDLLB2QIUS/RWCOC0WHe9uJmQ0=
+			Mu9cFc7wnJGfbKNcdUUfnHVdK5OoDeWB5CUEdQXX5PY=
 			</data>
 		</dict>
 		<key>Modules/MapstedMap.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -351,7 +351,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wpz3WKOcVC5S8WLQfzDLLB2QIUS/RWCOC0WHe9uJmQ0=
+			Mu9cFc7wnJGfbKNcdUUfnHVdK5OoDeWB5CUEdQXX5PY=
 			</data>
 		</dict>
 		<key>Modules/MapstedMap.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
