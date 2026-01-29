@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		hvnY4MemJus18z1Zs5COi9oBXsM=
+		/zmnOfmeYlzA4Q8f5XBXHC8fG3E=
 		</data>
 		<key>Headers/MN-Bridging-Header.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		7C29GrNMf4/7yXgh3oH8ccxqBoY=
+		TFgH+KDRp6p8vgsb6wVMWYLSGBg=
 		</data>
 		<key>MNContactUsView.nib</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/MapstedMap.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		1oJFE/mbL9gFMgrRR/PNZyWBRkw=
+		n33EAfYwB0lwKTG5xjEJWwwlO2o=
 		</data>
 		<key>Modules/MapstedMap.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		1ydiqBNGJ34XQgxb6yqy6iZKATY=
+		Qkiu9NYkT/sbaUt491073nswtD8=
 		</data>
 		<key>Modules/MapstedMap.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -260,7 +260,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tWleBZnRBsV+IuPM40pk5po8PTBp9PGTc/khrl7UThk=
+			m6/DVP+BCL4rLGmpWZRA5r2Y8h9doz0XjC5sH+dPUOQ=
 			</data>
 		</dict>
 		<key>Headers/MN-Bridging-Header.h</key>
@@ -302,14 +302,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FbEe6DTrJUyvC/xkxTnLJ8azuctVGH/A8DKcehAxEE0=
+			SCO/Y8I9MyugclimaCk4xTXAAn8C6wuz02jj4ezaCXY=
 			</data>
 		</dict>
 		<key>Modules/MapstedMap.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FxKLmUJhw8T/fvRd2NonEEeSLxIaM2Lf831Haon+Q3k=
+			Yu+Xlm44RZ1/GQEXqcosjHoGjo+bPN8pjAHaYkQxuAw=
 			</data>
 		</dict>
 		<key>Modules/MapstedMap.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
